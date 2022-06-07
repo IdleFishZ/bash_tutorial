@@ -17,3 +17,5 @@ Blastoise	Water	none
 Butterfree	Bug	Flying
 Beedrill	Bug	Poison
 Pidgeot	Normal	Flying
+
+123 try
